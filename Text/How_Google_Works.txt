@@ -1,0 +1,15 @@
+﻿
+Gooogle search is one of the most complex and convinient tools we use extensively use in our daily lives. As we know the internet is filled with information, and not all of it is relevant to us.
+When we do a google search a huge number of pages match our query, but not all of it is relevant information and it is humanly impossible to comb through all of it to find the relevant ones.
+This is where Google lightens our work furthus , It has a Trademark page ranking policy based on various factors using which it sorts the pages in order of relevance to the search, thus making it easy for us to get the information we want.
+But this is not all, There are billion searches being done each moment around the globe, to serve each search efficiently google needs to do prepossiong of the information present in the internet.
+
+Google organises the information about webpages in their seach index.The index is like a library, except it contains more info than in all the world’s libraries put together.
+It uses web crawlers gather information from across hundreds of billions of webpages and organize it in the Search index.
+The crawling process begins with a list of web addresses from past crawls and sitemaps provided by website owners. As the crawlers visit these websites, they use links on those sites to discover other pages. The software pays special attention to new sites, changes to existing sites and dead links. Computer programs determine which sites to crawl, how often and how many pages to fetch from each site.
+The web is like an ever-growing library with billions of books and no central filing system. google software known as web crawlers to discover publicly available webpages. Crawlers look at webpages and follow links on those pages, much like one would if one was browsing content on the web. They go from link to link and bring data about those webpages back to Google’s servers.
+rawlers find a webpage, it’s systems render the content of the page, just as a browser does. They take note of key signals — from keywords to website freshness — and  keep track of it all in the Search index.
+Now when we search anything on google we are not actually searching the Interner we are searching Google’s Index of the internet. Even though there are thousands sometimes millions of webpages matching our search, this is where googles Page Rank policy comes in.
+These ranking systems are made up of not one, but a whole series of algorithms. To give us the most useful information, Search algorithms look at many factors, including the words of our query, relevance and usability of pages, expertise of sources, and our location and settings. The weight applied to each factor varies depending on the nature of our query—for example, the freshness of the content plays a bigger role in answering queries about current news topics than it does about dictionary definitions.
+Thus Google organises the available webpages and presents it to us as an list.
+This is How google Search Engine works.
